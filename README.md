@@ -98,6 +98,32 @@ Example:
 - Duration records
 
 ---
+# Configuration
+Tower Location API
+To use the tower location feature, you need an API key from Unwired Labs:
+
+Sign up for a free account
+Get your API token
+Enter it in the sidebar of the application
+Free tier includes 100 requests/day.
+
+# Usage
+Tower Location
+Enter your Unwired Labs API key in the sidebar
+Select device type (Android/iPhone)
+Enter network parameters:
+MCC (Mobile Country Code) - e.g., 404 for India
+MNC (Mobile Network Code) - e.g., 11 for Jio
+LAC/TAC (Location/Tracking Area Code)
+Cell ID
+Click "Locate Tower"
+View the interactive map with pinpoint location
+Bill Analysis
+Navigate to "Bill Analysis" tab
+Upload your call bill PDF
+Click "Analyze Bill"
+View comprehensive statistics and charts
+Export data if needed
 
 #  Forensic Applications
 
