@@ -100,7 +100,7 @@ Example:
 ---
 # Configuration
 Tower Location API
-To use the tower location feature, you need an API key from Unwired Labs:
+To use the tower location feature, you need an API key from [Unwired Labs](https://unwiredlabs.com/):
 
 Sign up for a free account
 Get your API token
